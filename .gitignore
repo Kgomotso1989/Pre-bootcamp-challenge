@@ -1,0 +1,4 @@
+do not trach these files
+ .gitignore.swo
+ .gitignore.swp
+ .task1.py.swp
